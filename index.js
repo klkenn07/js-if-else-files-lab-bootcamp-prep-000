@@ -1,5 +1,5 @@
-var name = "The name is correct"
-var height = "The height is correct"
+var The name is correct = "name"
+var The height is correct = "height"
 
 
 // Don't worry about this
